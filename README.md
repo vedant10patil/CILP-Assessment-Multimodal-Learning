@@ -1,5 +1,4 @@
-# General
-**Project title**: CILP Assessment: Multimodal Learning
+# CILP Assessment: Multimodal Learning
 
 **Description**: This project contains the submission for Lab 2 of the course *Applied Hands-On Computer Vision*.
 It uses material from the *NVIDIA DLI Multimodality* course. The goal is to train a classifier on a dataset containing RGB and LiDAR data of spheres and cubes.
