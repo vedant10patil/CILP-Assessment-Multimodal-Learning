@@ -1,0 +1,5 @@
+Model,Strategy,Validation Loss,F1 Score,Parameters,Time (s/epoch),Memory (MB),Accuracy
+Late_Fusion,late,0.0,0.0,3336662,1.36,175.88,94.88%
+Inter_concat,concat,0.0,0.0,191042,1.35,162.93,100.00%
+Inter_add,add,0.0,0.0,117314,1.35,161.27,98.14%
+Inter_hadamard,hadamard,0.0,0.0,117314,1.5,162.16,100.00%
